@@ -363,7 +363,7 @@ static_configs:
 Apache IoTDB Dashboard的获取方式：
 
 方式一： 您可以在grafana-metrics-example文件夹下获取到对应不同iotdb版本的Dashboard的json文件。
-方式二： 您可以访问Grafana Dashboard官网，点击下载 [Apache IoTDB Dashboard](https://grafana.com/grafana/dashboards/16132-apache-iotdb-dashboard/?tab=revisions)。
+方式二： 您可以访问Grafana Dashboard官网，点击下载 [Apache IoTDB Dashboard](https://grafana.com/api/plugins/apache-iotdb-datasource/versions/1.0.0/download)。
 
 在创建Grafana时，您可以选择Import刚刚下载的json文件，并为Apache IoTDB Dashboard选择对应目标数据源。
 

@@ -362,7 +362,7 @@ We provide the Apache IoTDB Dashboard, and the rendering shown in Grafana is as 
 How to get Apache IoTDB Dashboard:
 
 Method one:  You can obtain the json files of Dashboards corresponding to different iotdb versions in the grafana-metrics-example folder.
-Method two:  You can visit Grafana Dashboard official website, click here to download [Apache IoTDB Dashboard](https://grafana.com/grafana/dashboards/).
+Method two:  You can visit Grafana Dashboard official website, click here to download [Apache IoTDB Dashboard](https://grafana.com/api/plugins/apache-iotdb-datasource/versions/1.0.0/download).
 
 When creating Grafana, you can select the json file you just downloaded to `Import` and select the corresponding target data source for Apache IoTDB Dashboard.
 

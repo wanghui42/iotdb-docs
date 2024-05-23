@@ -103,7 +103,7 @@ The table below describes the types of system permissions:
 |     USE_CQ      | Allow users to create, delete, and view continuous queries. <br/> Independent of data source permission checks for continuous queries.                                                          |
 |    USE_PIPE     | Allow users to create, start, stop, delete, and view pipelines. <br/>Allow users to create, delete, and view pipeline plugins. <br/>Independent of data source permission checks for pipelines. |
 | EXTEND_TEMPLATE | Permission to automatically create templates.                                                                                                                                                   |
-|    MAINTAIN     | Allow users to query and cancel queries. <br/>Allow users to view variables. <br/>Allow users to view cluster status.                                                                           |
+|    MAINTAIN     | Allow users to query and cancel queries. <br/>Allow users to view cluster status.                                                                           |
 |    USE_MODEL    | Allow users to create, delete and view deep learning model.                                                                                                                                     |
 Regarding template permissions:
 
